@@ -24,12 +24,14 @@
                         
                         Utilisation factor=(Area occupied by gate-level netlist/Total area of core)
   
-  Preplaced Cell: Prior to the placement of the standard cell,some prdefined macros and cells are placed in order to perform some additioanal optimisation on design.
+  **Preplaced Cell**: Prior to the placement of the standard cell,some prdefined macros and cells are placed in order to perform some additioanal optimisation on design.
 
-  Decoupling Capacitors: Decap cells are used to manage voltage fluctuations.
+  **Decoupling Capacitors:** Decap cells are used to manage voltage fluctuations.
 
-  Power Planning: A grid of VDD and VSS are used to ensure proper power delivary.
+  **Power Planning:** A grid of VDD and VSS are used to ensure proper power delivary.
 
-  Pin placement: I/p and O/P pims are properly placed for efficient routing.
+  **Pin placement:** I/p and O/P pims are properly placed for efficient routing.
+
+## DAY-2 Lab:            
   
 
