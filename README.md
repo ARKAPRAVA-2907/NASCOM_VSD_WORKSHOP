@@ -32,6 +32,11 @@
 
   **Pin placement:** I/p and O/P pims are properly placed for efficient routing.
 
-## DAY-2 Lab:            
+## DAY-2 Lab: 
+![run_floorplan](https://github.com/user-attachments/assets/7ba4a452-76bb-4a0e-b91a-a242344ae3c8)
+
+![picorv32a_floorplan def](https://github.com/user-attachments/assets/9b9da829-3e56-4ceb-a17e-93ed2f831694)
+
+
   
 
