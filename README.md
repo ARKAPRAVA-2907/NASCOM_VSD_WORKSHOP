@@ -45,6 +45,15 @@
 ![magic1](https://github.com/user-attachments/assets/9a178563-39a0-4519-a34a-c8eca1e25f8c)
 
 
+## DAY_3(Design Library Cells and ngspice Characterisation)
+
+## DAY-3-Theory
+
+**Standard CMOS Inverter**
+
+   CMOS inverter consists of a PMOS connected to VDD and NMOS connected to VSS or ground.The drain terminals of the two MOS are connected together.CMOS inverters are used for its low power consumption, high noise margins, and ability to drive large currents.Ngspice has been used to simulate the behaviour of CMOS inverter,where the transition from low to high output voltage corresponds to the switching behavior of the inverter.
+
+
 
 
   
