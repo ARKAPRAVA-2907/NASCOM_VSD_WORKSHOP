@@ -38,6 +38,14 @@
 
 ![picorv32a_floorplan def](https://github.com/user-attachments/assets/9b9da829-3e56-4ceb-a17e-93ed2f831694)
 
+**Invoking magic**
+
+![Running magic](https://github.com/user-attachments/assets/ef7a72b2-882c-444f-b3d5-6e521d930a1f)
+
+![magic1](https://github.com/user-attachments/assets/9a178563-39a0-4519-a34a-c8eca1e25f8c)
+
+
+
 
   
 
