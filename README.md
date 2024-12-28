@@ -54,6 +54,14 @@
    CMOS inverter consists of a PMOS connected to VDD and NMOS connected to VSS or ground.The drain terminals of the two MOS are connected together.CMOS inverters are used for its low power consumption, high noise margins, and ability to drive large currents.Ngspice has been used to simulate the behaviour of CMOS inverter,where the transition from low to high output voltage corresponds to the switching behavior of the inverter.
 
 
+## DAY-3-Lab
+
+
+**Invoking inverter layout**
+![Inv_layout](https://github.com/user-attachments/assets/356d9eb8-8c27-480e-954c-9c1d03935641)
+
+
+
 
 
   
