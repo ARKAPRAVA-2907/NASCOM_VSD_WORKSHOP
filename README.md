@@ -79,7 +79,41 @@
 
 
 **Invoking inverter layout**
-![Inv_layout](https://github.com/user-attachments/assets/356d9eb8-8c27-480e-954c-9c1d03935641)
+
+ 
+  magic -T sky130A.tech sky130_inv.mag &
+
+
+![vsdinvlayout](https://github.com/user-attachments/assets/e4819f8c-ae92-4df8-aa8b-3e0a6303607b)
+
+
+
+**Creating Spice file for ngspice :**
+
+To generate a SPICE file that can be used with Ngspice, follow these steps in the Tkcon window:
+
+**1. extract all** ( Extracting netlist information)
+
+**2. ext2spice** cthresh 0 rthresh 0 ( Generating spice netlist with defined threshold)
+
+**3.ext2spice** ( Exporting spice netlist)
+
+![Spice_netlist](https://github.com/user-attachments/assets/407d9c2d-e24a-40df-8b43-9601f8ccb159)
+
+
+**Modifying spice netlist with pshort.lib, nshort.lib**
+
+For modification following lines to be included in the spice file.
+
+.include ./libs/pshort.lib
+
+
+.include ./libs/nshort.lib
+
+
+![modi_spice](https://github.com/user-attachments/assets/31a96ad5-6622-47d9-92ae-f0230cc5e09d)
+
+
 
 
 
