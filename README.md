@@ -114,6 +114,11 @@ For modification following lines to be included in the spice file.
 ![modi_spice](https://github.com/user-attachments/assets/31a96ad5-6622-47d9-92ae-f0230cc5e09d)
 
 
+**Simulation with Ngspice**
+
+ngspice  sky130_inv.spice   ( Command for launching Ngspice )
+
+
 
 
 
