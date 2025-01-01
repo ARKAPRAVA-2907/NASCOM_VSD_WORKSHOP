@@ -1,4 +1,4 @@
-# NASCOM_VSD_WORKSHOP
+66# NASCOM_VSD_WORKSHOP
 ## DAY-1 (Inception of open source EDA , OpenLANE and sky130pdk):
   
  ## DAY-1-Theory
@@ -39,7 +39,9 @@
 ![run_floorplan](https://github.com/user-attachments/assets/7ba4a452-76bb-4a0e-b91a-a242344ae3c8)
 
 **Die Area Calculation**
-    **Die width=
+    **Die width=((660685-0)/1000) =660.685 Microns**
+    **Die Height= ((671405-0)/1000) = 671.405 Microns**
+    **Die Area = 660.685*671.405=443587.2124 Microns**
 
 ![picorv32a_floorplan def](https://github.com/user-attachments/assets/9b9da829-3e56-4ceb-a17e-93ed2f831694)
 
