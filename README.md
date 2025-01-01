@@ -1,4 +1,4 @@
-66# NASCOM_VSD_WORKSHOP
+# NASCOM_VSD_WORKSHOP
 ## DAY-1 (Inception of open source EDA , OpenLANE and sky130pdk):
   
  ## DAY-1-Theory
