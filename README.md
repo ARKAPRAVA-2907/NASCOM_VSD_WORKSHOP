@@ -11,6 +11,7 @@
 ![Synthesis_succrssful](https://github.com/user-attachments/assets/8d269b5c-7851-4d2c-9488-5179a0a1de3e)
 ![prep-design](https://github.com/user-attachments/assets/81d69433-ab4e-4cdc-9e92-9b49c1d0030f)
 ![Flop_ratio](https://github.com/user-attachments/assets/be6dbead-9af0-4651-a406-4e47494075f7)
+   
    **Flop Ratio=(No. of D-ff/No. of total std. cells)=1613/14876=0.108429=10.84%**
 
 
