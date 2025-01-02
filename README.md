@@ -111,12 +111,18 @@ For modification following lines to be included in the spice file.
 .include ./libs/nshort.lib
 
 
-![modi_spice](https://github.com/user-attachments/assets/31a96ad5-6622-47d9-92ae-f0230cc5e09d)
+![inv_sp](https://github.com/user-attachments/assets/d6beb817-f5fd-49a1-ab93-edc90db0094d)
+
 
 
 **Simulation with Ngspice**
 
 ngspice  sky130_inv.spice   ( Command for launching Ngspice )
+
+![sp_simulation](https://github.com/user-attachments/assets/d99eef4c-d95e-4612-84b4-57d0e354e229)
+
+Shows error.The cause is unknown.
+
 
 
 
